@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jiehao Liang's website"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Jiehao Liang"
 description              : &description ""
@@ -25,8 +25,8 @@ author:
   name             : "Jiehao Liang"
   pronouns         : # example: "she/her"  
   bio              : "Master 2 student"
-  location         : "Earth"
-  employer         : "University of Paris-Saclay"
+  location         : "Paris, France"
+  employer         : "Université Paris-Saclay"
   uri              : # URL
   email            : "liangjiehao127@gmail.com" 
 
