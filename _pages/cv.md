@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Detailed CV is available [here]{}
+
 Education
 ======
 * M2 in Mathematics, Université Paris-Saclay, 2024 - 2025
@@ -26,11 +28,6 @@ Research Interest
 Homotopy theory and its connection with geometry/arthmetic
 
 
-Experiences
+Projects
 ======
-See detailed CV
-
-Skills
-======
-* Madarin(Native), English(C1)
-
+* See detailed CV
