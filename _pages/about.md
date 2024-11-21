@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
 Hi! My name is Jiehao Liang (梁杰昊). Currently, I am in the second year of Master study at Université Paris-Saclay funded by Fondation Mathématique Jacques Hadamard (FMJH). I did my first year of Master study at École Polytechnique with thesis advisor [Mauro Porta](https://sites.google.com/view/mauroporta). Before that, I obtained my Bachelor degree from Renmin University of China. 
 
 My CV is available [here]().
