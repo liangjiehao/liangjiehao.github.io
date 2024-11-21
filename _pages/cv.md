@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Detailed CV is available [here]{}
+Detailed CV is available [here]()
 
 Education
 ======
@@ -19,7 +19,7 @@ Education
 
 Awards
 ======
-* Sophie Germain Scholarships by FMJH  (2024 - 2025)
+* Sophie Germain Scholarship by FMJH  (2024 - 2025)
 * Research Internship Award (2023 - 2024)
 * Academic Scholarship by Renmin University of China (2019 - 2021)
 
