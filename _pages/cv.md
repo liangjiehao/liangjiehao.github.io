@@ -21,7 +21,7 @@ Detailed CV is available [here]()
 * Research Internship Award (2023 - 2024)
 * Academic Scholarship by Renmin University of China (2019 - 2021)
 
-### Research Interest
+### Interest
 Homotopy theory and its connection with geometry/arthmetic
 
 ### Projects
