@@ -7,22 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Jiehao Liang (梁杰昊), currently an Master 2 student in Mathematics at Université Paris-Saclay. I did my Master 1 at École Polytechnique with advisor [Mauro Porta](https://sites.google.com/view/mauroporta). I obtained my Bachelor degree at Renmin University of China from School of Statistics. 
+Hi! I am Jiehao Liang (梁杰昊), currently an Master 2 student in Mathematics at Université Paris-Saclay. I did my Master 1 at École Polytechnique with advisor [Mauro Porta](https://sites.google.com/view/mauroporta). I obtained my Bachelor degree at Renmin University of China from School of Statistics. See my [CV]().
 
-I am interested in homotopy theory and its connection with geometry/arithmetic.
+I am interested in homotopy theory and its connection with geometry/arithmetic. 
 
-Education
+Notes
 ======
-* M2 in Mathematics, Université Paris-Saclay, 2024 - 2025
-* M1 in Mathematics, École Polytechnique, 2023 - 2024
-* B.S. in Statistics, Renmin University of China, 2019 - 2023
+* **Symmetric Monoidal Structure of ∞-Category of Spectra**, *Master 1 thesis*, [[Link]()]
+* **Classification of Two Dimensional Extended Topological Field Theory**. *reading course project in algebraic topology*, [[Link]()]
 
-Awards
-======
-* Sophie Germain Scholarship by FMJH  (2024 - 2025)
-* Research Internship Award (2023 - 2024)
-* Academic Scholarship by Renmin University of China (2019 - 2021)
-
-Research Interest
-======
-Homotopy theory and its connection with geometry/arthmetic
