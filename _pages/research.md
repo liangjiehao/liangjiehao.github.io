@@ -7,7 +7,7 @@ redirect_from:
   - /research
 ---
 
-During my undergraduate, I did some research on Statistics and Theoretical Computer Science.
+During my undergraduate, I did some research on *Statistics* and *Theoretical Computer Science*.
 
 * Bypass Exponential Time Preprocessing: Fast Neural Network Training via Weight-Data Correlation Preprocessing
   - *Josh Alman, Jiehao Liang, Zhao Song, Ruizhe Zhang, Danyang Zhuo*
