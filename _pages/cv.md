@@ -11,23 +11,18 @@ redirect_from:
 
 Detailed CV is available [here]()
 
-Education
-======
+### Education
 * Master 2 in Mathematics, Université Paris-Saclay, 2024 - 2025
 * Master 1 in Mathematics, École Polytechnique, 2023 - 2024
 * Bachelor in Statistics, Renmin University of China, 2019 - 2023
 
-Awards
-======
+### Awards
 * Sophie Germain Scholarship by FMJH  (2024 - 2025)
 * Research Internship Award (2023 - 2024)
 * Academic Scholarship by Renmin University of China (2019 - 2021)
 
-Research Interest
-======
+### Research Interest
 Homotopy theory and its connection with geometry/arthmetic
 
-
-Projects
-======
+### Projects
 * See detailed CV
