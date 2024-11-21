@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Detailed CV is available [here]()
+Detailed CV is available [here](https://drive.google.com/file/d/1m-gMMVMBJvGW2LPWjJJ7HuZ5QY2JM0dB/view?usp=sharing)
 
 ### Education
 * Master 2 in Mathematics, Université Paris-Saclay, 2024 - 2025
