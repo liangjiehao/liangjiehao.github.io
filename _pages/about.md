@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Jiehao Liang (梁杰昊), currently an Master 2 student in Mathematics at Université Paris-Saclay. I did my Master 1 at École Polytechnique with advisor [Mauro Porta](https://sites.google.com/view/mauroporta). I obtained my Bachelor degree at Renmin University of China from School of Statistics. See my [CV]().
+Hi! My name is Jiehao Liang (梁杰昊). Currently, I am an Master 2 student in Mathematics at Université Paris-Saclay. I did my Master 1 at École Polytechnique with advisor [Mauro Porta](https://sites.google.com/view/mauroporta). I obtained my Bachelor degree at Renmin University of China from School of Statistics. See my [CV]().
 
 I am interested in homotopy theory and its connection with geometry/arithmetic. 
 
