@@ -13,9 +13,9 @@ Detailed CV is available [here]()
 
 Education
 ======
-* M2 in Mathematics, Université Paris-Saclay, 2024 - 2025
-* M1 in Mathematics, École Polytechnique, 2023 - 2024
-* B.S. in Statistics, Renmin University of China, 2019 - 2023
+* Master 2 in Mathematics, Université Paris-Saclay, 2024 - 2025
+* Master 1 in Mathematics, École Polytechnique, 2023 - 2024
+* Bachelor in Statistics, Renmin University of China, 2019 - 2023
 
 Awards
 ======
