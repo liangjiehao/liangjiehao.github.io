@@ -18,15 +18,5 @@ I am interested in homotopy theory and its connection with geometry/arithmetic.
 * **Symmetric Monoidal Structure of ∞-Category of Spectra**, *Master 1 thesis*, [[Link]()]
 * **Classification of Two Dimensional Extended Topological Field Theory**. *reading course project in algebraic topology*, [[Link]()]
 
-## Publications & Preprints
-During my undergraduate, I did some research on Statiscis and Theoretical Computer Science.
-* Bypass Exponential Time Preprocessing: Fast Neural Network Training via Weight-Data Correlation Preprocessing
-  - *Josh Alman, Jiehao Liang, Zhao Song, Ruizhe Zhang, Danyang Zhuo*
-  - Neurips 2023 [[Link]()]
-* A Faster k-means++ Algorithm
-  - *Jiehao Liang, Somdeb Sarkhel, Zhao Song, Chenbo Yin, Junze Yin, Danyang Zhuo*
-  - Arxiv [[Link]()]
-* Dynamic Maintenance of Kernel Density Estimation Data Structure: From Practice to Theory
-  - *Jiehao Liang, Zhao Song, Zhaozhuo Xu, Junze Yin, Danyang Zhuo*
-  - Arxiv [[Link]()]
+
   
