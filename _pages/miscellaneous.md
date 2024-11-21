@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-*Started with statistics, stopped by theoretical computer science, stepped into mathematics*
+*Started with statistics, stopped by theoretical computer science, and stepped into mathematics*
 
 
