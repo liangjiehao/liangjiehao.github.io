@@ -7,4 +7,6 @@ redirect_from:
   - /resume
 ---
 
-The marginal is too small to write down the proof.
+*Started with statistics, stopped by theoretical computer science, stepped into mathematics*
+
+
