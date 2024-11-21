@@ -25,4 +25,13 @@ Detailed CV is available [here]()
 Homotopy theory and its connection with geometry/arthmetic
 
 ### Projects
-* See detailed CV
+* Master 1 Internship on Derived Algebraic Geometry
+  * Studied symmetric monoidal structure on infinity category of spectra
+* Reading Course in Algebraic Geometry
+  * Studied étale cohomology over a field and over an algebraic curve.
+* Reading course in Algebraic Topology
+  * Studied classification of two dimensional extended topological field theory
+
+### Skills
+* Mandarin (Native)
+* English (Fluent)
