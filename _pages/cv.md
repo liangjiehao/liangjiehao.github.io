@@ -26,12 +26,12 @@ Homotopy theory and its connection with geometry/arthmetic
 
 ### Projects
 * Master 1 Internship on Derived Algebraic Geometry
-  * Studied symmetric monoidal structure on infinity category of spectra
+  * Studied symmetric monoidal structure on presentable stable infinity categories
 * Reading Course in Algebraic Geometry
-  * Studied étale cohomology over a field and over an algebraic curve.
+  * Studied basic properties and examples of étale cohomology
 * Reading course in Algebraic Topology
   * Studied classification of two dimensional extended topological field theory
 
 ### Skills
-* Mandarin (Native)
+* Chinese (Native)
 * English (Fluent)
