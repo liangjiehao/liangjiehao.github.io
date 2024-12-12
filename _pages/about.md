@@ -11,7 +11,7 @@ Hi! My name is Jiehao Liang (梁杰昊). Currently, I am in the second year of M
 
 My CV is available [here](https://drive.google.com/file/d/1m-gMMVMBJvGW2LPWjJJ7HuZ5QY2JM0dB/view?usp=sharing).
 
-I am interested in homotopy theory and its connection with geometry/arithmetic. 
+I am broadly interested in homotopy theory and its connection with geometry/arithmetic. 
 
 ## Notes
 * **Symmetric Monoidal Structure of ∞-Category of Spectra**, *Master 1 thesis*, [[Link](https://drive.google.com/file/d/1tyoF19q26ngIW3odZgoA25nxniODcVJV/view?usp=sharing), [Slides](https://drive.google.com/file/d/1_nO83gQ_1nQoSNyaqscGPdqjYL1pKzEb/view?usp=drive_link)]
