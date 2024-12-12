@@ -19,7 +19,7 @@ I am broadly interested in homotopy theory and its connection with geometry/arit
 
 ## Reading
 
-Below is some representative books/papers/notes that I found instrcutive and practical during my study of homotopy theory. 
+Below are some representative books/papers/notes that I found instrcutive and practical during my study of homotopy theory. 
 
 1. [*Topological Field Theory, Higher Categories, and their Applications*](https://arxiv.org/abs/1004.2307), Anton Kapustin
 2. [*On the Classification of Topological Field Theories*](https://arxiv.org/abs/0905.0465), Jacob Lurie
