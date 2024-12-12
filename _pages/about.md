@@ -17,7 +17,7 @@ I am interested in homotopy theory and its connection with geometry/arithmetic.
 * **Symmetric Monoidal Structure of ∞-Category of Spectra**, *Master 1 thesis*, [[Link](https://drive.google.com/file/d/1tyoF19q26ngIW3odZgoA25nxniODcVJV/view?usp=sharing), [Slides](https://drive.google.com/file/d/1_nO83gQ_1nQoSNyaqscGPdqjYL1pKzEb/view?usp=drive_link)]
 * **Classification of Two Dimensional Extended Topological Field Theory**. *reading course project in algebraic topology*, [[Link](https://drive.google.com/file/d/1vxmySv75rZJLJOrGMZ7YkaPb-u8Y5tFD/view?usp=sharing), [Slides](https://drive.google.com/file/d/1kRDcc9qV7mW3UMPcc9RVaLYSeLVBIGpD/view?usp=sharing)]
 
-## Reading Materials
+## Reading
 
 Below is some representative books/papers/notes that I found instrcutive and practical during my study of homotopy theory. 
 
