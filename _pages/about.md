@@ -29,7 +29,7 @@ Below is some representative books/papers/notes that I found instrcutive and pra
 4. [*A Very Concise Introduction to Higher Category Theory and Homotopical Algebra*](https://static1.squarespace.com/static/63e4f6c7360c356e958ca05f/t/65a27663dce9490f3b962efb/1705145957150/higher+category+theory.pdf), Emanuele Pavia
 5. [*An Introduction to Higher Categorical Algebra*](https://arxiv.org/abs/1907.02904), David Gepner
 6. [Student Seminar on Infinity Categories](https://sites.google.com/view/jordanlevin/teaching/infinity-categories), Jordan Levin and Ran Azouri
-> [3] is a great reference for a first course in infinity category which involves very concrete examples and computation. [4] is a coherently written note ranging from basic model category to algebra in $\infty$-categories that I read over and over. [5] is in some sense a beginner-friendly baby version of Higher Algebra. [6] is a well-organized seminar on infinity category which can be used to check if one have a good command of the language of infinity category.
+> [3] is a great reference for a first course in infinity category which involves very concrete examples and computation. [4] is a coherently written note ranging from basic model category to algebra in infinity categories that I read over and over. [5] is in some sense a beginner-friendly baby version of Higher Algebra. [6] is a well-organized seminar on infinity category which can be used to check if one have a good command of the language of infinity category.
 
 7. [*Higher Algebra*](https://people.math.harvard.edu/~lurie/papers/HA.pdf), [*Kerodon*](https://kerodon.net/), Jacob Lurie
 8. [*Spectra and Stable Homotopy Theory.*](https://people.math.binghamton.edu/malkiewich/spectra_book_draft.pdf), Cary Malkiewich
