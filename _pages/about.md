@@ -11,7 +11,7 @@ Hi! My name is Jiehao Liang (梁杰昊). Currently, I am in the second year of M
 
 <!-- My CV is available [here](https://drive.google.com/file/d/1m-gMMVMBJvGW2LPWjJJ7HuZ5QY2JM0dB/view?usp=sharing). -->
 
-I am broadly interested in homotopy theory and its connection with geometry/arithmetic. 
+I am broadly interested in homotopy theory and derived geometry. 
 
 <!--
 ## Notes
