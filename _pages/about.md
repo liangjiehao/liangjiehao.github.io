@@ -9,10 +9,11 @@ redirect_from:
 
 Hi! My name is Jiehao Liang (梁杰昊). Currently, I am in the second year of Master study at <ins>Université Paris-Saclay</ins> funded by Fondation Mathématique Jacques Hadamard (FMJH). I did my first year of Master study at <ins>École Polytechnique</ins> with thesis advisor [Mauro Porta](https://sites.google.com/view/mauroporta). Before that, I obtained my Bachelor degree in statistics from <ins>Renmin University of China</ins>. 
 
-My CV is available [here](https://drive.google.com/file/d/1m-gMMVMBJvGW2LPWjJJ7HuZ5QY2JM0dB/view?usp=sharing).
+<!-- My CV is available [here](https://drive.google.com/file/d/1m-gMMVMBJvGW2LPWjJJ7HuZ5QY2JM0dB/view?usp=sharing). -->
 
 I am broadly interested in homotopy theory and its connection with geometry/arithmetic. 
 
+<!--
 ## Notes
 * **Symmetric Monoidal Structure of ∞-Category of Spectra**, *Master 1 thesis*, [[Link](https://drive.google.com/file/d/1tyoF19q26ngIW3odZgoA25nxniODcVJV/view?usp=sharing), [Slides](https://drive.google.com/file/d/1_nO83gQ_1nQoSNyaqscGPdqjYL1pKzEb/view?usp=drive_link)]
 * **Classification of Two Dimensional Extended Topological Field Theory**. *reading course project in algebraic topology*, [[Link](https://drive.google.com/file/d/1vxmySv75rZJLJOrGMZ7YkaPb-u8Y5tFD/view?usp=sharing), [Slides](https://drive.google.com/file/d/1kRDcc9qV7mW3UMPcc9RVaLYSeLVBIGpD/view?usp=sharing)]
@@ -36,3 +37,4 @@ Below are some representative books/papers/notes that I found instrcutive and pr
 9. [*Derived Algebraic Geometry*](https://perso.math.univ-toulouse.fr/btoen/files/2012/04/dag-ems.pdf), Bertrand Toën
 10. [*Brauer groups and étale cohomology in derived algebraic geometry*](https://arxiv.org/pdf/1210.0290), Benjamin Antieau and David Gepner
 > [7] is the standard reference where Chapter 1, Chapter 2, Chapter 4.8 and Chapter 7 are closedly related to my Master 1 thesis about symmetric monoidal structure on infinity categories. [8] is a "category-free" book about spectra and stable homotopy theory. I learned some very concrete constructions in stable homotopy theory including homotopy (co)limit and smash product. Many of the abstract definitions in Higher Algebra (e.g., spectrum object, ring spectra, module spectra) can be seen as a categorical generalization of classical theory of spectra. [9] is one of the standard reference for derived algebraic geometry and [10] involes an interesting topic about Brauer group in derived geometry.
+-->
