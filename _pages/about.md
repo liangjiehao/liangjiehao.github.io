@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Jiehao Liang (梁杰昊). Currently, I am in the second year of Master study at <ins>Université Paris-Saclay</ins>. I did my first year of Master study at <ins>École Polytechnique</ins> with thesis advisor [Mauro Porta](https://sites.google.com/view/mauroporta). Before that, I obtained my Bachelor degree in statistics from <ins>Renmin University of China</ins>. 
+Hi! My name is Jiehao Liang (梁杰昊). Currently, I am a Master 2 student at <ins>Université Paris-Saclay</ins>. I did Master 1 at <ins>École Polytechnique</ins> with thesis advisor [Mauro Porta](https://sites.google.com/view/mauroporta). Before that, I obtained my Bachelor degree in statistics from <ins>Renmin University of China</ins>. 
 
 <!-- My CV is available [here](https://drive.google.com/file/d/1m-gMMVMBJvGW2LPWjJJ7HuZ5QY2JM0dB/view?usp=sharing). -->
 
