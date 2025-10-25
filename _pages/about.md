@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Jiehao Liang (梁杰昊). Currently, I am a Master 2 student at <ins>Université Paris-Saclay</ins>. I did Master 1 at <ins>École Polytechnique</ins> with thesis advisor [Mauro Porta](https://sites.google.com/view/mauroporta). Before that, I obtained my Bachelor degree in statistics from <ins>Renmin University of China</ins>. 
+Hi! My name is Jiehao Liang (梁杰昊). I am a first-year PhD student at <ins>Université Paris-Saclay</ins> under the supervision of [Benjamin Hennion](https://www.imo.universite-paris-saclay.fr/~benjamin.hennion) and [Mauro Porta](https://sites.google.com/view/mauroporta). I did my Master 2 at <ins>Université Paris-Saclay</ins> and my Master 1 at <ins>École Polytechnique</ins>. Before that, I obtained my Bachelor degree in statistics from <ins>Renmin University of China</ins>. 
 
 
-I am broadly interested in homotopy theory and derived geometry. 
+I am broadly interested in homotopy theory and its various applications in algebraic geometry, enumerative geometry, combinatorics, etc. Feel free to contact me if you want to discuss anything with me.
 
 <!--
 ## Notes
