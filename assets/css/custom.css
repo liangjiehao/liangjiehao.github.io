@@ -1,6 +1,6 @@
 /* 去掉所有链接的默认蓝色，统一为黑色 */
 a {
-  color: black !important;
+  color: inherit !important;
   text-decoration: none;
 }
 
@@ -12,7 +12,7 @@ a:hover {
 
 /* 如果只想影响正文，不改导航栏，可以更细粒度 */
 .page-content a {
-  color: black !important;
+  color: inherit !important;
   text-decoration: none;
 }
 
