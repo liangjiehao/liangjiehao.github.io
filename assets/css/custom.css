@@ -7,7 +7,7 @@ a {
 /* 鼠标悬停时稍微变灰，增加交互感 */
 a:hover {
   color: #555 !important;
-  text-decoration: underline; /* 如果不想要下划线，可以去掉 */
+  text-decoration: none; /* 如果不想要下划线，可以去掉 */
 }
 
 /* 如果只想影响正文，不改导航栏，可以更细粒度 */
